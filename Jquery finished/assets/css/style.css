@@ -1,0 +1,43 @@
+
+body{
+    background-color: mediumturquoise;
+}
+
+button{
+    margin-left: 350px;
+}
+
+.input1{
+    width: 400px;
+    margin-left: 330px;
+}
+
+.input2{
+    width: 400px;
+    margin-left: 330px;
+}
+
+.input3{
+    width: 400px;
+    margin-left: 330px;
+}
+
+.btn{
+    width: 200px;
+    margin-left: 550px;
+}
+
+
+.input1:hover{
+    background-color: black;
+    color: white;
+}
+
+.input2:hover{
+    background-color: black;
+    color: white;
+}
+
+.btn:hover{
+    background-color: black;
+}
